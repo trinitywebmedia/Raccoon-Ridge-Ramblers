@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Karl Genesis Child Theme\n"
+"POT-Creation-Date: 2015-12-20 15:44+0800\n"
+"PO-Revision-Date: 2015-12-20 15:44+0800\n"
+"Last-Translator: Joe Mar Aparecio <joe@zigzagpress.com>\n"
+"Language-Team: zigzagpress <joe@zigzagpress.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: D:\\zp_theme_files\\themes\\karl"
+"\\v1.0\\karl_theme_package_v1.0\\karl\n"
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/404.php:35
+msgid "404 - Page Not Found"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/404.php:40
+#, php-format
+msgid ""
+"The page you are looking for no longer exists. Perhaps you can return back "
+"to the site's <a href=\"%s\">homepage</a> and see if you can find what you "
+"are looking for. Or, you can try finding it by using the search form below."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/archive-portfolio.php:100
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:130
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/taxonomy-portfolio_category.php:110
+msgid "Load More Portfolio"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:125
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:278
+msgid "Load More Posts"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:125
+msgid "Loading Posts..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:125
+msgid "No More Posts"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:130
+msgid "Loading Portfolio..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:130
+msgid "No More Portfolio"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:135
+msgid "Load More Products"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:135
+msgid "Loading Products..."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:135
+msgid "No More Product"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:142
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_functions.php:112
+msgid "Posted on"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:142
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_functions.php:112
+msgid "By"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:142
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_functions.php:112
+msgid "Comments"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:142
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_functions.php:112
+msgid "Comment"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:156
+msgid "Read More "
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:174
+msgid "Header Bottom Widget"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/functions.php:175
+msgid "Widget area at the bottom of the header"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/class/class-super-custom-post-meta.php:516
+msgid "Add Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/class/class-super-custom-post-meta.php:571
+msgid "Add Images"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/class/class-super-custom-post-meta.php:572
+msgid "Clear Images"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:15
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:34
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:53
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:72
+msgid "Enable this box"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:16
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:35
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:54
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:73
+msgid "Select box height."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:17
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:36
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:55
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:74
+msgid "Set box width in percentage. Example: 50 for 50%"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:18
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:37
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:56
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:75
+msgid "Set box background image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:19
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:21
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:38
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:40
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:57
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:59
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:76
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:78
+msgid "Set box background color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:20
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:39
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:58
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:77
+msgid "Set box text color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:22
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:41
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:60
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:79
+msgid "Set box overlay color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:23
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:42
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:61
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:80
+msgid "Set box overlay opacity. Max value is 1. Example: 0.5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:24
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:43
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:62
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:81
+msgid "Add box content"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:91
+msgid "Set page description"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:101
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:116
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:131
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:158
+msgid "Set overlay color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:102
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:117
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:132
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:159
+msgid "Set overlay opacity. Example: 0.5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:103
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:118
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:133
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:160
+msgid "Set text color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:104
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:119
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:134
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:161
+msgid "Set background color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:170
+msgid "Title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:171
+msgid "Portfolio Category"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:172
+msgid "Author"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:173
+msgid "Date"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:186
+msgid "Unable to get portfolio category(s)"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:250
+msgid "Portfolio Archive Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:257
+msgid "Enable portfolio archive title"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:260
+msgid "Portfolio Archive Layout"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:267
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:206
+msgid "Portfolio Archive Overlay Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:270
+msgid "Portfolio Archive Overlay Opacity"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:272
+msgid "Set overlay opacity. Maximum value is 1. Example: 0.5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:274
+msgid "Portfolio Archive Text Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:277
+msgid "Portfolio Archive BG Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:280
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:218
+msgid "Portfolio Archive BG Image."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:282
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:371
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:489
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:177
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:220
+msgid "Upload Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:283
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:372
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:490
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:178
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:221
+msgid "Remove Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:318
+msgid "Portfolio Category Header Options"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:323
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:441
+msgid "Enable Header"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:326
+msgid "Enable portfolio category title?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:330
+msgid "Portfolio Category Layout"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:333
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:451
+msgid "Choose Layout"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:344
+msgid "Portfolio Category Overlay"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:350
+msgid "Portfolio Category Opacity"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:356
+msgid "Portfolio Category Text Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:362
+msgid "Portfolio Category BG Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:368
+msgid "Portfolio Category BG Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:436
+msgid "Product Category Header Options"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:444
+msgid "Enable product category title?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:448
+msgid "Product Category Layout"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:462
+msgid "Product Category Overlay"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:468
+msgid "Product Category Opacity"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:474
+msgid "Product Category Text Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:480
+msgid "Product Category BG Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/cpt/zp_cpt.php:486
+msgid "Product Category BG Image"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:81
+msgid "Settings reset."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:83
+msgid "Settings saved."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:132
+msgid "Blog Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:135
+msgid "Shop Layout Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:138
+msgid "Default Header BG Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:139
+msgid "General Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:163
+msgid "Default Overlay Color"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:166
+msgid "Default Overlay Opacity. Example 0.5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:169
+msgid "Default Text Color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:172
+msgid "Default BG Color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:175
+msgid "Default BG Image."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:183
+msgid "Default BG settings for search and 404 page."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:187
+msgid "Upload Custom Logo."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:189
+msgid "Upload Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:190
+msgid "Remove Logo"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:195
+msgid "Custom Logo Width in pixel. e.g. 200"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:199
+msgid "Custom Logo Height in pixel. e.g. 200"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:202
+msgid "This is the general settings."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:209
+msgid "Portfolio Archive Overlay Opacity. Example 0.5"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:212
+msgid "Portfolio Archive Text Color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:215
+msgid "Portfolio Archive BG Color."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:226
+msgid "This is the portfolio archive settings."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:236
+msgid "Insert Image!"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:280
+msgid "Karl Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:281
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:291
+msgid "Save Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:282
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:292
+msgid "Reset Settings"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:282
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/theme_settings.php:292
+msgid "Are you sure you want to reset?"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/include/woo_functions.php:26
+msgid "Load More Product"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/search.php:41
+msgid "Search Result for"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/search.php:58
+msgid "Search Not Found"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/search.php:60
+msgid "Sorry, no content matched your criteria."
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/single.php:18
+msgid "Older"
+msgstr ""
+
+#: D:\zp_theme_files\themes\karl\v1.0\karl_theme_package_v1.0\karl/single.php:23
+msgid "Newer"
+msgstr ""

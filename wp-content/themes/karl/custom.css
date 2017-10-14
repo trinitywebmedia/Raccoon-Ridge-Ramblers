@@ -1,0 +1,55 @@
+/*
+ * Custom CSS
+ *
+ * Place here your custom CSS. This will keep your custom css when there is a theme update.
+ *
+ */
+
+.content article.type-portfolio {
+    float: left;
+    display: block;
+}
+.portfolio_item_list {
+    display: block;
+    float: left;
+    position: relative;
+}
+.archive-description{
+	display: none;
+}
+#infinite-content .author-box{
+	display: none;
+}
+.portfolio_tags a{
+    color: inherit;
+}
+.portfolio_tags a:after{
+    content: "/";
+    position: relative;
+    padding: 0 10px;
+}
+.portfolio_tags a:last-child:after{
+    display: none;
+}
+.zp_portfolio_header{
+    display: table;
+    position: static;
+}
+.zp_portfolio_wrap .entry-header{
+    display: table-cell;
+}
+.content article.type-portfolio {
+     position: relative;
+}
+.woocommerce .zp_shop_content ul.products li.type-product, .woocommerce-page .zp_shop_content ul.products li.type-product {
+    margin: 0;
+    clear: none;
+    float: left;
+    display: block;
+    position: relative;
+}
+.woocommerce  .zp_product_content header a{
+    display: block;
+    margin-bottom: 30px;
+    color: inherit;
+}
