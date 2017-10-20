@@ -364,3 +364,9 @@ function zp_theme_nav_extras( $menu, $args ) {
  * Write all your custom functions in this file
  */ 
 require_once (  get_stylesheet_directory(  ) . '/include/custom_functions.php'   );
+//* Change the footer text
+add_filter('genesis_footer_creds_text', 'sp_footer_creds_filter');
+function sp_footer_creds_filter( $creds ) {
+	$creds = '[footer_copyright] &middot; <a href="http://raccoonridgeramblers.com">Raccoon Rodge Ramblers</a> • Site Developed By <a href="http://trinitywebmedia.com>Trininty Web Media</a>';
+	return $creds;
+}
